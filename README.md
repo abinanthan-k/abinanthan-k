@@ -39,6 +39,12 @@
 
 
 ---
+## My Contributions
+
+<p align="center">
+  <img src="https://github.com/abinanthan-k/abinanthan-k/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 
 ## 🌟 Featured Projects
 
