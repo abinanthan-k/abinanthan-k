@@ -45,8 +45,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/yourusername/medbot">
-        <img src="https://github.com/yourusername/medbot/assets/project1.png" width="100%" alt="Medical Chatbot"/>
+      <a href="https://github.com/abinanthan-k/medical-chatbot">
+        <img src="https://github.com/yourusername/medbot/assets/project1.png" width="100%" alt="🩺"/>
         <b>Medical Chatbot (RAG-based LLM)</b>
       </a>
       <br>
