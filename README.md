@@ -46,15 +46,13 @@
   <tr>
     <td>
       <a href="https://github.com/abinanthan-k/medical-chatbot">
-        <img src="https://github.com/yourusername/medbot/assets/project1.png" width="100%" alt="🩺"/>
         <b>Medical Chatbot (RAG-based LLM)</b>
       </a>
       <br>
       <sub>Python, LangChain, Pinecone, Streamlit</sub>
     </td>
     <td>
-      <a href="https://github.com/yourusername/research-paper-summarizer">
-        <img src="https://github.com/yourusername/research-paper-summarizer/assets/project2.png" width="100%" alt="Research Paper Summarizer"/>
+      <a href="https://github.com/abinanthan-k/rpsat-flask">
         <b>Research Paper Summarizer & Translator</b>
       </a>
       <br>
@@ -63,20 +61,25 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/yourusername/airline-customer-analysis">
-        <img src="https://github.com/yourusername/airline-customer-analysis/assets/project3.png" width="100%" alt="Airline Customer Analysis"/>
-        <b>Airline Customer Analysis (ML Pipeline)</b>
+      <a href="https://github.com/abinanthan-k/event-management-app">
+        <b>Event Management Application</b>
       </a>
       <br>
-      <sub>Python, scikit-learn, Pandas</sub>
+      <sub>Node.js, EJS, Postgre-SQL</sub>
     </td>
     <td>
-      <a href="https://github.com/yourusername/portfolio-website">
-        <img src="https://github.com/yourusername/portfolio-website/assets/project4.png" width="100%" alt="Portfolio Website"/>
-        <b>Personal Portfolio Website</b>
+      <a href="https://github.com/abinanthan-k/data-projects">
+        <b>Data Projects</b>
       </a>
       <br>
-      <sub>React, Node.js, CSS</sub>
+      <sub>Scikit-learn, Tensorflow, Pandas, Numpy, Matplotlib</sub>
+    </td>
+    <td>
+      <a href="https://github.com/abinanthan-k/mini-project">
+        <b>Food Recommendation System</b>
+      </a>
+      <br>
+      <sub>Scikit-learn, Pandas, Numpy</sub>
     </td>
   </tr>
 </table>
