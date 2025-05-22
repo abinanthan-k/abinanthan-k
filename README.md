@@ -42,7 +42,7 @@
 ## My Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinanthan-k&theme=github-compact&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Abinanthan's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinanthan-k&theme=xcode&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Abinanthan's Activity Graph" />
 </p>
 
 
