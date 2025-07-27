@@ -68,6 +68,7 @@
     <td>
       <a href="https://github.com/abinanthan-k/Kidney-Stone-Classification/">
         <b>Kidney Stone Classification</b>
+      </a>
         <br>
       <sub>Python, Tensorflow, FastAPI</sub>
     </td>
