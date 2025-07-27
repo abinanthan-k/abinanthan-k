@@ -65,6 +65,12 @@
       <br>
       <sub>Python, HuggingFace, LangChain</sub>
     </td>
+    <td>
+      <a href="https://github.com/abinanthan-k/Kidney-Stone-Classification/">
+        <b>Kidney Stone Classification</b>
+        <br>
+      <sub>Python, Tensorflow, FastAPI</sub>
+    </td>
   </tr>
   <tr>
     <td>
